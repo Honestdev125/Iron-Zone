@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🏋️‍♂️ IronZone</h1>
   <p>Modern, responsive gym website with interactive UI and smooth animations 🔥</p>
-  <a href="https://hamiparsa.github.io/Iron-Zone/">
+  <a href="https://honestdev125.github.io/Iron-Zone/">
     <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -81,7 +81,7 @@ Highlights:
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Focused on interactive and modern web projects  
 
 ---
